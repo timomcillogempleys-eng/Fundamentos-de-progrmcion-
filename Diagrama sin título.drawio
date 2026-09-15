@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Pux7If7YUnhvXdV7Vqaz">
+    <mxGraphModel dx="1094" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-11" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-12" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="330" />
+              <mxPoint x="80" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-13" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="MAIJ10m_LqdtK-VtYh08-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206.7" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-14" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.025;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="MAIJ10m_LqdtK-VtYh08-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="418.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-16" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Usuario&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="100" x="170" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-23" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-22" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="250" />
+              <mxPoint x="480" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Tiene" vertex="1">
+          <mxGeometry height="50" width="60" x="450" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-4" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="335" />
+              <mxPoint x="370" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ID_Usuario" vertex="1">
+          <mxGeometry height="50" width="80" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Correo Electronico&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="90" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ID_Tipo" vertex="1">
+          <mxGeometry height="60" width="90" x="30" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="N-Usuario" vertex="1">
+          <mxGeometry height="50" width="90" x="150" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Apellido_M" vertex="1">
+          <mxGeometry height="50" width="70" x="280" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Contraseña&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="70" x="280" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-15" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="380" />
+              <mxPoint x="106.8" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-28" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-29" edge="1" parent="1" source="MAIJ10m_LqdtK-VtYh08-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="MAIJ10m_LqdtK-VtYh08-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-22" parent="1" style="whiteSpace=wrap;html=1;" value="Estado&amp;nbsp;" vertex="1">
+          <mxGeometry height="25" width="90" x="435" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ID_Estado" vertex="1">
+          <mxGeometry height="40" width="60" x="354" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="N-Estado&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="80" x="420" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MAIJ10m_LqdtK-VtYh08-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="70" x="570" y="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
